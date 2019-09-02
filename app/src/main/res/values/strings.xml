@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestProject</string>
+
+    <plurals name="duration">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%1$d minutes</item>
+    </plurals>
+
+    <string name="genres_error">Genres empty!</string>
+    <string name="reviews_error">Reviews empty!</string>
+
+</resources>
